@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on an e-commerce full stack project for an internship<br>👯 I’m looking to collaborate on front-end or full stack projects<br>🌱 I’m currently learning AngularJS, ReactJS, Springboot and more frameworks
+🔭 ## Hi there! 👋
+I'm currently in my final year of Computer Science, passionate about web/software development and cybersecurity, and focusing on projects involving web development and software engineering. Check out my repositories below!<br>👯 I’m looking to collaborate on front-end or full stack projects<br>🌱 I’m currently learning AngularJS, ReactJS, Springboot and more frameworks
 
 
 # 💻 Tech Stack:
