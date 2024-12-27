@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Hi there! 👋
-I'm currently in my final year of Computer Science, passionate about web/software development and cybersecurity, and focusing on projects involving web development and software engineering. Check out my repositories below!<br>👯 I’m looking to collaborate on front-end or full stack projects<br>🌱 I’m currently learning ReactJS, NodeJs, ExpressJs and more frameworks
+I'm currently in my final year of Computer Science, passionate about web/software development and cybersecurity, and focusing on projects involving web development and software engineering. Check out my repositories below!<br>👯 I’m looking to collaborate on front-end or full stack projects<br>🌱 I’m currently working on a full-stack project with Odoo Modules
 
 
 # 💻 Tech Stack:
